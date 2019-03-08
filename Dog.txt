@@ -1,0 +1,10 @@
+public string bark(int count) 
+{
+this.name = name;
+this.owner = owner;
+this.weight = weight;
+
+	// put code to generate string here
+}
+
+
